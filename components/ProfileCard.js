@@ -3,7 +3,7 @@ import { AntDesign } from '@expo/vector-icons';
 const ProfileCard = () =>{
 return <HStack marginTop={10} bgColor={'orange.100'} padding={2} alignItems={'center'} justifyContent={'space-between'}>
 <Image source={{
-      uri: "https://wallpaperaccess.com/full/317501.jpg"
+      uri: "https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-1024.png"
     }} alt="Alternate Text" size="xl"
     borderRadius={90}
     />
